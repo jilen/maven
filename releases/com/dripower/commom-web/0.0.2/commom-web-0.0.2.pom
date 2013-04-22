@@ -5,7 +5,7 @@
 	<version>0.0.2</version>
 	<scm>
 		<developerConnection>scm:git:https://jilen@bitbucket.org/jilen/common-web.git</developerConnection>
-		<tag>v0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<properties>
 		<local.repo>${user.home}/workspace/maven</local.repo>
