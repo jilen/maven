@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jilen</groupId>
+  <artifactId>async-weibo</artifactId>
+  <versioning>
+    <release>0.0.1</release>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20130527082843</lastUpdated>
+  </versioning>
+</metadata>
